@@ -33,7 +33,7 @@
     "utf8": "^3.0.0",
     "solidity-coverage": "^0.7.11",
     "winston": "^3.3.3",
-    "yargs": "^16"
+    "yargs": "^15.0.1"
   },
   "devDependencies": {
     "@openzeppelin/test-helpers": "^0.5.6",
