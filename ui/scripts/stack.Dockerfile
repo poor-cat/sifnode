@@ -44,7 +44,7 @@ RUN make install
 #
 # Runtime
 #
-FROM node:14.11.0
+FROM node:14.20.0
 
 EXPOSE 1317
 EXPOSE 7545
