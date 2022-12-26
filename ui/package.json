@@ -90,7 +90,7 @@
     "fkill-cli": "^6.1.0",
     "prettier": "^2.2.1",
     "sass-loader": "^10.1.1",
-    "storybook-addon-designs": "^5.4.5",
+    "storybook-addon-designs": "^6.0.0",
     "storybook-vue-router": "^1.0.7",
     "style-loader": "^2.0.0",
     "tsconfig-paths-webpack-plugin": "^3.3.0"
